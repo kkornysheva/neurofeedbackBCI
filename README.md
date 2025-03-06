@@ -7,6 +7,7 @@
 **Year**: *2024*
 
 **Funder**: EPSRC/MRC N-Code https://www.n-code.org/news/non-invasive-brain-computer-interfaces-for-remote-rehab-and-training-of-motor-skills/ 
+
 **N-CODE Study Group**: https://www.n-code.org/wp-content/uploads/2023/12/study-group-report_kornysheva-etal_2023.pdf
 
 ## Project Description
