@@ -7,6 +7,7 @@
 **Year**: *2024*
 
 **Funder**: EPSRC/MRC N-Code https://www.n-code.org/news/non-invasive-brain-computer-interfaces-for-remote-rehab-and-training-of-motor-skills/ 
+**N-CODE Study Group**: https://www.n-code.org/wp-content/uploads/2023/12/study-group-report_kornysheva-etal_2023.pdf
 
 ## Project Description
 Current approaches to treat Parkinson’s Disease (PD) include physiotherapy, drugs, and invasive deep-brain stimulation (DBS), however, their efficacy tends to decrease as the disease progresses. Electrophysiological research investigating pharmacotherapy and DBS treatments led to a well-established understanding of neural circuit alterations underlying PD. Among these, event-related desynchronization (ERD) is a movement-related and frequency-band-specific increase in power that is typically elevated in PD patients and associated with motor symptoms. Our goal is to link knowledge about the pathophysiology of PD to markers of skilled human movement. We began by analysing the cqEEG dataset for the relationship between reaction time (RT) and ERD, and then started to build on the results by developing a non-invasive neurofeedback brain-computer interface (BCI) application which is intended to provide an alternative to existing treatments for PD patients. Here, we’re emphasizing that remote rehabilitation in patient’s homes allows for much more flexible and accessible therapy, which is why we’re working with a mobile EEG setup.
