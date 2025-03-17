@@ -6,8 +6,7 @@
 
 **Year**: *2024*
 
-**Funder**: N-CODE Network+ funded by EPSRC/MRC via grant EP/W035030/1 https://www.n-code.org/news/non-invasive-brain-computer-interfaces-for-remote-rehab-and-training-of-motor-skills/
-KK was supported by the Academy of Medical Sciences SBF006\1052
+**Funder**: N-CODE Network+ funded by EPSRC/MRC via grant EP/W035030/1 https://www.n-code.org/news/non-invasive-brain-computer-interfaces-for-remote-rehab-and-training-of-motor-skills/; KK was supported by the Academy of Medical Sciences SBF006\1052
 
 **N-CODE Study Group**: https://www.n-code.org/wp-content/uploads/2023/12/study-group-report_kornysheva-etal_2023.pdf
 
